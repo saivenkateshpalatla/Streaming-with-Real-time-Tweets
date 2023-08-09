@@ -1,1 +1,1 @@
-# Streaming-with-Real-time-Tweets
+Run the zookeeper and kafka server. Then create a topic called "tweets". Then run scrapper along with sentimental or clustering code. Check the plots for results.
